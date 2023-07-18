@@ -2,7 +2,7 @@
 ##for any study location using user-input data. Results are visualized
 ##in graph and table formats for the years of simulation.
 ##The interface requires the suer to upload an input CSV file (sample file is provided along with this code)
-
+##Created by Femeena Pandara Valappil (last updated July 18, 2023)
 ##Load the required packages##
 library(shiny)
 library(shinythemes)
